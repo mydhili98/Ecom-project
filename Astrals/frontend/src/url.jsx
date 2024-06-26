@@ -1,1 +1,1 @@
-export const Url = `https://astralmens-ecom.onrender.com`
+export const Url = `http://localhost:3000`
